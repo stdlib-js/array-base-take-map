@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-take-map",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Take elements from an array and return a new array after applying a mapping function.",
   "license": "Apache-2.0",
   "author": {
