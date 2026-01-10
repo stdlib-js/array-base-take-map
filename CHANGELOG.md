@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-29)
+## Unreleased (2026-01-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bfc8c3a`](https://github.com/stdlib-js/stdlib/commit/bfc8c3a7bcebf1a049c9e457ab440f540fd5c7a9) - **chore:** use one asterisk for license comment in TS files _(by Philipp Burckhardt)_
 -   [`2be0aaf`](https://github.com/stdlib-js/stdlib/commit/2be0aaf5336c2ec9e2194f1e9e3087ad56cfdb85) - **bench:** refactor to use string interpolation in `array/base/take-map` [(#9050)](https://github.com/stdlib-js/stdlib/pull/9050) _(by DivitJain26)_
 -   [`3dc5f1e`](https://github.com/stdlib-js/stdlib/commit/3dc5f1ef335565c05ee4be5878de5b587c7f28d6) - **docs:** fix require paths for complex arrays _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
